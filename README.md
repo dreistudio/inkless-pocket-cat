@@ -12,7 +12,7 @@ over Bluetooth and keeps nothing but your settings and last ten slips, on the ph
 <sub>Screenshots from the simulator, which has no Bluetooth; on a phone the button says Print.</sub>
 
 It was built for one ritual: printing the evening's to-do list at the end of the workday, so the list can live
-in a notebook instead of on the phone.
+in a notebook instead of on the phone. The story behind it: [I Built a Cat Printer App to Stop Checking My Phone](https://strebergarten.studio/I-Built-a-Cat-Printer-App-to-Stop-Checking-My-Phone).
 
 ## Printers
 
