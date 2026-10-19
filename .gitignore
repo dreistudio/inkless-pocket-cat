@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+build/
+InklessPocket.xcodeproj/
+*.xcodeproj/xcuserdata/
+__pycache__/
