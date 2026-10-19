@@ -4,6 +4,13 @@ A tiny iPhone app for the little cat-faced Bluetooth thermal printers. Paste or 
 what the slip will look like, and print it. No account, no cloud, no tracking: the app talks to the printer
 over Bluetooth and keeps nothing but your settings and last ten slips, on the phone.
 
+<p>
+  <img src="screenshots/evening.png" width="300" alt="An evening list in the editor and its slip preview">
+  <img src="screenshots/trail-hunt.png" width="300" alt="A trail treasure hunt, with the Paste &amp; print button after copying text">
+</p>
+
+<sub>Screenshots from the simulator, which has no Bluetooth; on a phone the button says Print.</sub>
+
 It was built for one ritual: printing the evening's to-do list at the end of the workday, so the list can live
 in a notebook instead of on the phone.
 
